@@ -2,7 +2,7 @@
 | Member    | ID | 
 |----------|:-------------:|
 | Shady Tantawy | 37-10769 | 
-| YOUR NAME |  ID | 
+| Mohamed Nawar |  37-10770 | 
 | YOUR NAME |  ID | 
 | YOUR NAME |  ID | 
 | YOUR NAME |  ID |
