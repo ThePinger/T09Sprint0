@@ -2,7 +2,7 @@
 | Member    | ID | 
 |----------|:-------------:|
 | David Mina |  37-3742 | 
-| YOUR NAME |  ID | 
+| Shady Younan |  37-3236| 
 | YOUR NAME |  ID | 
 | YOUR NAME |  ID | 
 | YOUR NAME |  ID |
