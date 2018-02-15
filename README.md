@@ -1,4 +1,4 @@
-![Tutorial Logo](https://drive.google.com/file/d/1iqEInVpUMZht7U5I0Kiz2sg9jYQHPbC6/view?usp=sharing)
+![Tutorial Logo](https://github.com/ThePinger/T09Sprint0/blob/master/Tutorial%20logo.png)
 
 # Sprint0
 
