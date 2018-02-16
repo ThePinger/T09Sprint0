@@ -9,6 +9,10 @@
 | Abdellatif Emarah |  31-9580 |
 | Yasmine Osama |  37-1036 |
 | Omar Emad |  37-3037 |
+| Shady Tantawy | 37-10769 | 
+| Mohamed Nawar |  37-10770 | 
+| Amr Elshehaly |  37-2383 | 
+| Ahmed Hatem |  37-14764 | 
 | Amgad Ashraf |  37-2058 | 
 | Ramy Mansour |  37-8380 | 
 | Youssam Joseph |  37-5559 | 
