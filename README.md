@@ -1,35 +1,6 @@
 ![Tutorial Logo](https://github.com/ThePinger/T09Sprint0/blob/master/Tutorial%20logo.png)
 
 # Sprint0
-| Member    | ID | 
-|----------|:-------------:|
-| Nader Waguih |  37-6772 | 
-| Yasmina ElSaket |  37-1642 | 
-| Abdallah Mohie |  37-4821| 
-| esraa mahmoud |  37-14769 | 
-| YOUR NAME |  ID |
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID |
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID |
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID |
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID | 
-| YOUR NAME |  ID |
-=======
-
 #### About:
 * Purpose:
 This repository was created as a trial to test github and test how it would work in a group project.
@@ -37,6 +8,10 @@ This repository was created as a trial to test github and test how it would work
 
     | Member    | ID |
     |----------|:-------------:|
+    | Nader Waguih |  37-6772 | 
+    | Yasmina ElSaket |  37-1642 | 
+    | Abdallah Mohie |  37-4821| 
+    | esraa mahmoud |  37-14769 |
     | Akram Ashraf |  37-2076 |
     | Farid Khaled |  37-5746 | 
     | Abdellatif Emarah |  31-9580 |
